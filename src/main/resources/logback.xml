@@ -7,7 +7,7 @@
         </encoder>
     </appender>
 
-    <logger name="ua.dmytrolutsiuk" level="INFO" additivity="false">
+    <logger name="ua.dmytrolutsiuk" level="DEBUG" additivity="false">
         <appender-ref ref="STDOUT" />
     </logger>
 
